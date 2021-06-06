@@ -1,2 +1,2 @@
 # sheets-seek
-Simple Goal Seek AppScript for Google Sheets
+Simple Goal Seek Apps Script for Google Sheets
